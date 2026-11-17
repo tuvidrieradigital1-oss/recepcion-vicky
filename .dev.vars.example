@@ -1,0 +1,5 @@
+# Copiá este archivo como .dev.vars para probar en local con: npx wrangler pages dev dist
+ANTHROPIC_API_KEY=sk-ant-xxxx
+SUPABASE_URL=https://TU-PROYECTO.supabase.co
+SUPABASE_SERVICE_ROLE_KEY=eyJ...
+PANEL_PIN=1234
